@@ -1,0 +1,8 @@
+{
+  "name": "vendor-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sonhoang2503/vendor-data.git",
+  "author": "jason <skylarnguyen25@gmail.com>",
+  "license": "MIT"
+}
